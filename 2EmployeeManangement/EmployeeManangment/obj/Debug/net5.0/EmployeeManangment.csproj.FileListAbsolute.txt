@@ -1,0 +1,16 @@
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.exe
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.deps.json
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.runtimeconfig.json
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.runtimeconfig.dev.json
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.dll
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\ref\EmployeeManangment.dll
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\bin\Debug\net5.0\EmployeeManangment.pdb
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.csproj.AssemblyReference.cache
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.AssemblyInfoInputs.cache
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.AssemblyInfo.cs
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.dll
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\ref\EmployeeManangment.dll
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.pdb
+C:\Users\zahra\source\repos\oop projects\EmployeeManangment\EmployeeManangment\obj\Debug\net5.0\EmployeeManangment.genruntimeconfig.cache
